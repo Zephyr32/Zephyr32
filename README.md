@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Zephyr32
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Angular 2+
-- 💞️ I’m looking to collaborate on the create bot to binance
 - 📫 How to reach me ... just send me message in telegramm @Zephir23
 
 <!---
